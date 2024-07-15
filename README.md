@@ -1,16 +1,16 @@
 # Hi there! 👋
 
-I'm [Your Name], a budding programmer on a journey to master C programming and beyond. I share my learning experiences on [Twitter](https://twitter.com/yourusername) and [YouTube](https://youtube.com/yourchannelname).
+I'm Ashwn, a budding programmer on a journey to master C programming and beyond. I share my learning experiences on [Twitter](https://twitter.com/ashwn79) and [YouTube](https://youtube.com/ashwn79).
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages:** C, [add more languages as you learn]
+- **Programming Languages:** C
 - **Tools:** Git, GitHub, Visual Studio Code, [any other tools]
 - **Learning:** Data Structures, Algorithms, Problem Solving
 
 ## 🚀 Projects
 
-- [**Project Name**](https://github.com/yourusername/projectname): Brief description of the project.
+- [**Project Cone**](https://github.com/yourusername/projectname): Brief description of the project.
 - [**Another Project**](https://github.com/yourusername/anotherproject): Brief description of this project.
 
 ## 📚 Learning Journey
@@ -19,9 +19,9 @@ I started learning C programming recently and am currently focusing on mastering
 
 ## 🌐 Connect with Me
 
-- [Twitter](https://twitter.com/yourusername)
-- [YouTube](https://youtube.com/yourchannelname)
-- [Blog](https://yourblog.com)
+- [Twitter](https://twitter.com/ashwn79)
+- [YouTube](https://youtube.com/ashwn79)
+- [Blog](https://ashwn79.com)
 
 ## 🎉 Fun Facts
 
