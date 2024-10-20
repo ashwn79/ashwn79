@@ -4,8 +4,8 @@ I'm Ashwn, a budding programmer on a journey to master C programming and beyond.
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages:** C
-- **Tools:** Git, GitHub, Visual Studio Code, [any other tools]
+- **Programming Languages:** C, C++ and HTML, CSS and JS
+- **Tools & Platforms:** Git, GitHub, VS Code, and (IDEs) Designed for Efficient Coding, Version Control, and Team Collaboration
 - **Learning:** Data Structures, Algorithms, Problem Solving
 
 ## 🚀 Projects
