@@ -10,12 +10,12 @@ I'm Ashwn, a budding programmer on a journey to master C programming and beyond.
 
 ## 🚀 Projects
 
-- [**Project Cone**](https://github.com/yourusername/projectname): Brief description of the project.
-- [**Another Project**](https://github.com/yourusername/anotherproject): Brief description of this project.
+- [**Project Cone**](https://github.com/ashwn79/projectname): Coming Soon...
+- [**Another Project**](https://github.com/ashwn79/anotherproject): Coming Soon...
 
 ## 📚 Learning Journey
 
-I started learning C programming recently and am currently focusing on mastering the basics, such as arrays and matrices. My goal is to create more complex projects and improve my skills in software development.
+My journey in software development is driven by a passion for building efficient and scalable solutions. I am continuously exploring core programming concepts and applying them to real-world projects. My focus is on refining my problem-solving abilities and expanding my knowledge to take on more complex challenges in the future.
 
 ## 🌐 Connect with Me
 
@@ -36,6 +36,6 @@ I started learning C programming recently and am currently focusing on mastering
 
 ## 💖 Support Me
 
-- [Buy me a coffee](https://buymeacoffee.com/ashwn79)
+- [Buy me a coffee](https://buymeacoffee.com/ashwn79): Just kidding😂.
 
 
