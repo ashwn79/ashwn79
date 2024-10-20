@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm Ashwn, a budding programmer on a journey to master C programming and beyond. I share my learning experiences on [Twitter](https://twitter.com/ashwn79) and [YouTube](https://youtube.com/ashwn79).
+I'm Ashwn, a budding programmer passionate about developing solutions that address real-world challenges, while continuously expanding my skills and knowledge.
 
 ## 🛠️ Skills and Technologies
 
 - **Programming Languages:** C, C++ and HTML, CSS and JS
-- **Tools & Platforms:** Git, GitHub, VS Code, and (IDEs) Designed for Efficient Coding, Version Control, and Team Collaboration
+- **Tools & Platforms:** Git, GitHub, VS Code, and other IDEs designed for efficient coding, version control, and collaboration
 - **Learning:** Data Structures, Algorithms, Problem Solving
 
 ## 🚀 Projects
@@ -30,7 +30,7 @@ My journey in software development is driven by a passion for building efficient
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwn79&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwn79&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwn79&layout=compact&theme=radical)
 
